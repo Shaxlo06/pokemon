@@ -1,7 +1,6 @@
 "use strict"
 
 pokemons.forEach(item => {
-    pokemons.slice(0, 10)
     let newPokemon = {
         pokemonImg : item.img,
         pokemonName : item.name,
